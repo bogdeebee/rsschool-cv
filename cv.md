@@ -41,3 +41,7 @@
       </div>      
     </header>
 ```
+
+## Other information
+
+* English skills - A2
