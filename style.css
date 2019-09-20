@@ -3,6 +3,7 @@ body {
   background-color: #131010;
   color: #FFFBF0;
   font-family: 'Quicksand', sans-serif;
+  font-size: 18px;
 }
 
 .wrapper {
@@ -31,6 +32,28 @@ h2 {
   margin-top: 0;
 }
 
+h3 {
+margin-right: 15px;
+}
+
 .header-contacts {
   line-height: 1.7em;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  margin: 25px auto;
+  padding: 0 20px;
+}
+
+.article {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.article-text {
+  max-width: 500px;
 }
