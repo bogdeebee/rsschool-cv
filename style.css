@@ -34,6 +34,7 @@ h2 {
 
 h3 {
 margin-right: 15px;
+width: 200px;
 }
 
 .header-contacts {
@@ -55,5 +56,9 @@ main {
 }
 
 .article-text {
-  max-width: 500px;
+  width: 500px;
+}
+
+ul {
+  padding: 0 20px;
 }
